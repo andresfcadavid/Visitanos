@@ -1,0 +1,2 @@
+1. Debe tener el driver en la ruta C://driver/chromedriver.exe
+2. Debe ejecutar desde cmd java -jar <nombre.jar> "Parametro de entrada busqueda" "Ruta imagen"
